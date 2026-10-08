@@ -1,0 +1,6 @@
+cases/
+__pycache__/
+*.pyc
+streamlit.log
+.ipynb_checkpoints/
+.DS_Store
